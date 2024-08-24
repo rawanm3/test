@@ -50,7 +50,7 @@ function getUsers(){
 }
 getUsers()
 
-
+// mision done
 function userclicked(id){
 getPosts(id)
 }
